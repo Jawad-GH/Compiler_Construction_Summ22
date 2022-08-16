@@ -1,7 +1,7 @@
 %{
 	#include <stdio.h>
-  #include <stdlib.h>
-  #include <string.h>
+        #include <stdlib.h>
+        #include <string.h>
 	#define INTEGER 10
 	#define CHARACTER 20
 	#define FLOATT 30
